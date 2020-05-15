@@ -1,0 +1,20 @@
+{
+  "name": "bitbuyapi",
+  "version": "1.0.0",
+  "description": "Wrapper around the BitBuy Rest API to communicate to the BitBuy Exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitbuy"
+  ],
+  "author": "Ryan O'Sullivan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto": "^1.0.1",
+    "firebase-admin": "^8.12.1",
+    "qs": "^6.9.3"
+  }
+}
