@@ -14,7 +14,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "crypto": "^1.0.1",
-    "firebase-admin": "^8.12.1",
     "qs": "^6.9.3"
   }
 }
