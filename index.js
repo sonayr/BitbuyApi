@@ -1,6 +1,6 @@
-const comms = require("./communication");
-const wallet = require("./wallets");
-const market = require("./market");
-const order = require("./orders");
+const comms = require("./endpoints/communication");
+const wallet = require("./endpoints/wallets");
+const market = require("./endpoints/market");
+const order = require("./endpoints/orders");
 
 module.exports = { wallet, market, order, "init": comms.init}

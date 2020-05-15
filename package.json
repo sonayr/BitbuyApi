@@ -1,6 +1,6 @@
 {
   "name": "bitbuyapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper around the BitBuy Rest API to communicate to the BitBuy Exchange",
   "main": "index.js",
   "scripts": {
